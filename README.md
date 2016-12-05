@@ -1,2 +1,3 @@
 # MaxMoto1702.github.io
-Personal
+Personal Page on Github Pages
+https://maxmoto1702.github.io/
